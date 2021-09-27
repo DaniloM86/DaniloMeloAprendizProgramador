@@ -1,5 +1,4 @@
 - 👋 Danilo Melo
 - 👀 Iniciante na programação 
 - Focado no desenvolvimento para web
-- Com foco em desenvolvimento back-end
 - Noções básicas de html, css, js, bootstrap, php7, mysql e composer.  
